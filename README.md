@@ -1,6 +1,6 @@
 # ABAP-CDS
 
-Repositório para estudos
+Repositório para estudos.
 
 CDS com publish: true, deve-se adaptar o arquivo "manifest.json" conforme abaixo
 
